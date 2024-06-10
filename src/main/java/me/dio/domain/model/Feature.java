@@ -1,8 +1,8 @@
-package me.dio.domain.model;
+    package me.dio.domain.model;
 
-import jakarta.persistence.Entity;
+    import jakarta.persistence.Entity;
 
-@Entity(name = "tb_feature")
-public class Feature extends BaseItem {
-    
-}
+    @Entity(name = "tb_feature")
+    public class Feature extends BaseItem {
+        
+    }
